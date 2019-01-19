@@ -1,10 +1,10 @@
 # Site settings
 title: My Blog
-SEOTitle: kaka3511的博客 | My Blog
+SEOTitle: 鸠摩智的博客 | My Blog
 header-img: img/post-bg-desk.jpg
 email: 351139863@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, My Blog, kaka3511的博客, Java,数据库,架构,微服务,框架"
+keyword: "BY, My Blog, 鸠摩智的博客, Java,数据库,架构,微服务,框架,JDK,多线程"
 url: "http://kaka3511.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kaka3511/kaka3511.github.io.git" # you code repository
